@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Peeh Drums 😁
+## Bem-vindo(a) ao perfil do Peeh Drums 🥁
 
  <div>
    <a href="https://github.com/PeehDrums">
