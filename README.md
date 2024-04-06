@@ -5,6 +5,24 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PeehDrums&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeehDrums&layout=compact&langs_count=6&theme=tokyonight"/>
 
+<h3 align="left">🤗 About me:</h3>
+
+- 🔭 I'm currently studying at **FIAP**.
+
+- 🌱 I'm currently learning **Python, AWS, Docker**.
+
+- 👨‍💻 I am available for **Freelance work** and **Quotations**.
+
+- I really like **Data Analysis**.
+
+- 💬 Ask me about **Java** ☕️🔥.
+
+- ⭐ I love **Music**, **Games** and **Anime!**
+
+- 💘 I also love creating technology content and helping developers like me 🤗
+
+- 📫 Contact me: [dev.peeh@gmail.com](mailto:dev.peeh@gmail.com)
+<br><br><br>
 
 </div>
 <div style="display: inline_block"><br>
