@@ -1,7 +1,7 @@
  Hey, my name is Pedro Guerra, but everyone calls me Gojo. Welcome to my space!
 
 # 💫 About Me:
-🤗 About me:<br>🔭 I'm currently studying at FIAP.<br><br>🌱 I'm currently learning artificial intelligence.<br><br>👨‍💻 I am available for Freelance work and Back end developer.<br><br>I really like Data Analysis.<br><br>💬 Ask me about Python 🐍.<br><br>⭐ I love Music, Games and Anime!<br><br>💘 I also love creating technology content and helping developers like me 🤗<br><br>📫 Contact me: dev.peeh@gmail.com<br>
+🤗 About me:<br>🔭 I'm currently studying at FIAP.<br><br>🌱 I'm currently learning artificial intelligence.<br><br>👨‍💻 I am available for Freelance work and Back end developer.<br><br>I really like Data Analysis.<br><br>💬 Ask me about java ☕.<br><br>⭐ I love Music, Games and Anime!<br><br>💘 I also love creating technology content and helping developers like me 🤗<br><br>📫 Contact me: dev.peeh@gmail.com<br>
 
 
 ## 🌐 Socials:
