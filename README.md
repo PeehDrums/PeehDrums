@@ -1,7 +1,21 @@
  Hey, my name is Pedro Guerra, but everyone calls me Gojo. Welcome to my space!
 
 # 💫 About Me:
-🤗 About me:<br>🔭 I'm currently studying at FIAP.<br><br>🌱 I'm currently learning artificial intelligence.<br><br>👨‍💻 I am available for Freelance work and Back end developer.<br><br>I really like Data Analysis.<br><br>💬 Ask me about java ☕.<br><br>⭐ I love Music, Games and Anime!<br><br>💘 I also love creating technology content and helping developers like me 🤗<br><br>📫 Contact me: dev.peeh@gmail.com<br>
+🤗 About me:<br>IT Manager focused on infrastructure, networks and electronic security (CCTV).
+
+I lead and manage technology environments, integrating physical and digital security with business strategy. My expertise includes planning, deployment and governance of IT solutions aimed at availability, security and operational efficiency.
+
+Core competencies:
+
+• IT infrastructure and network management
+• Network architecture and segmentation for critical systems
+• CCTV and electronic security projects
+• Vendor and technical team management
+• IT governance and process standardization
+• Integration between security systems, cloud and enterprise IT
+• Monitoring, maintenance and risk management
+
+📫 Contact: dev.peeh@gmail.com.
 
 
 ## 🌐 Socials:
